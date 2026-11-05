@@ -7,3 +7,5 @@ signing.properties
 .idea/
 *.iml
 keystore.properties
+*.apk
+*.p12

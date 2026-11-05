@@ -1,4 +1,10 @@
+<div align="center">
+
+<img src="docs/icon-512.png" alt="Hakan Authenticator" width="160" />
+
 # Hakan Authenticator
+
+</div>
 
 Offline TOTP authenticator for Android, written from scratch. It produces the six- or eight-digit codes that sign-in pages ask for (RFC 6238) and never talks to the network. The UI follows the phone language: English by default, Turkish on a Turkish phone.
 
@@ -46,4 +52,4 @@ app/src/main/java/dev/hakantopcu/authenticator/
 
 ## License
 
-Private project. Open-source authenticators (Aegis, 2FAS, andOTP) were read for design ideas only; no code was copied.
+MIT, see [LICENSE](LICENSE). Open-source authenticators (Aegis, 2FAS, andOTP) were read for design ideas only; no code was copied.
